@@ -19,6 +19,7 @@ cloudinary.config(
 # CLIENT_SECRET_FILE = 'client_secret.json'
 # SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly']  # Adjust scopes as needed
 #
+#
 # # Set up Streamlit app
 # #st.title("Google Authentication Demo")
 #

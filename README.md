@@ -8,5 +8,4 @@ sdk_version: 1.26.0
 app_file: app.py
 pinned: false
 ---
-
-Check out the configuration reference at https://neverlosedev-sb.vercel.app/
+This code is from HuggingFace Forum.
